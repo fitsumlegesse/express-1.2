@@ -11,7 +11,7 @@ app.use(express.static(__dirname));
 
 // app.listen(3000);
 app.listen(PORT,()=>{
-console.log(`App is running on port ${PORT}`)
+console.log(`App is running on port ${PORT}`);
 console.log(data);
 
 
