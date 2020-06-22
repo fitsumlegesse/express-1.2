@@ -7,9 +7,9 @@ const PORT = 3000;
 // app.use(express.static(__dirname));
 
 
-app.get(PORT,()=>{
-  res.send(`App is running on port ${PORT}`);
-});
+// app.get(PORT,()=>{
+//   res.send(`App is running on port ${PORT}`);
+// });
 
 
 // app.listen(3000);
